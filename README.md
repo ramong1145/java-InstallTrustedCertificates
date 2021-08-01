@@ -14,12 +14,6 @@ In order to solve this issue, you'll need to insert new certificates to allow TL
   git clone https://github.com/ramong1145/java-InstallTrustedCertificates
 ```
 
-- Go to the project main class
-
-```bash
-  git clone https://github.com/ramong1145/java-InstallTrustedCertificates
-```
-
 - Go to the project main class directory:
 
 ```bash
